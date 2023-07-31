@@ -1,0 +1,59 @@
+{
+  "name": "Gilmar Gomes de Lima",
+  "photo": "https://avatars.githubusercontent.com/u/134239041?s=400&u=5be6685fbe1e17c111d7aed6c7ea861182ac81cb&v=4",
+  "job": "Segundo semestre graduação Ads",
+  "location": "Mamanguape-Pb",
+  "phone": "(83) 9 9954-6185",
+  "email": "gomes.guit@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "js",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "css",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "vscode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização",
+      "Sempre pronto para aprender",
+      "Gosto de desafios"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (iniciante)"],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/GilmarGomes/Projeto-Pokedex-Curso-Dio-JavascriptDeveloper",
+      "github": true
+    },
+    {
+      "name": "Projeto no curso Js developer da Dio, criação de uma página de portfolio",
+      "url": "https://github.com/GilmarGomes/Projeto-feito-no-curso-Js-developer-da-Dio-P-gina-Portf-lio-",
+      "github": true
+    }
+  ],
+  "professionalExperience": []
+}
